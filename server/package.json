@@ -1,0 +1,13 @@
+{
+  "name": "meetup",
+  "version": "1.0.0",
+  "description": "MeetupClone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": ["social media", "social networking service", "social", "authentication", "authorization", "react", "node", "express", "npm", "cors", "nodemon", "novu"],
+  "author": "Quintessa Anderson",
+  "license": "ISC"
+}
