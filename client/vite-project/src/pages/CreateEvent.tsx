@@ -1,0 +1,1 @@
+//Enables users to create an event and provide details about an event

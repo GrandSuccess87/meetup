@@ -1,0 +1,1 @@
+//Displays all events under a particular category

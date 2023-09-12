@@ -18,3 +18,4 @@ Technologies, Tools, and Frameworks:
 - Novu (an open-source notification infrastructure)
 - Nodemon
 - CORS
+- Novu

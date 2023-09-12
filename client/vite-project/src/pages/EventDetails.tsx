@@ -1,0 +1,1 @@
+//Provides all the details about an event
